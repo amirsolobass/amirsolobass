@@ -17,8 +17,6 @@ I build across the stack: CLI tools, REST APIs, AI agents, browser games, and st
 
 Most of my technical foundation comes from [Boot.dev](https://www.boot.dev/), where I worked through backend engineering, systems programming, databases, and more.
 
-**Skills**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
